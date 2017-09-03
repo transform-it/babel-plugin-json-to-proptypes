@@ -25,6 +25,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "all-contributors-cli": "^4.4.0",
     "ava": "^0.21.0",
     "babel-core": "^6.25.0",
     "babel-polyfill": "^6.23.0",
