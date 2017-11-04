@@ -1,5 +1,7 @@
 # babel-plugin-json-to-proptypes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/transform-it/babel-plugin-json-to-proptypes.svg)](https://greenkeeper.io/)
+
 > Convert JSON to React PropTypes
 
 Online REPL is available at https://transform.now.sh/
